@@ -8,5 +8,8 @@ I'm deeply interested in AI for environmental sustainability. I believe in the p
 ## Current Status 🎯
 I'm actively seeking internships and co-op positions where I can apply my skills and learn more. I'm currently diving deep into the world of applied artificial intelligence and am eager to bring my learning to practical projects. 🧠💡
 
-- How to Reach Me 📫: mr3734@drexel.edu
-- Fun Fact 💡: I love dancing and singing.
+- How to Reach Me 📧: mr3734@drexel.edu
+- Fun Fact 💡: I love dancing 💃 and singing 🎤.
+
+## Social Media 📱
+- [Facebook](https://www.facebook.com/meghna.rajbhandari7182/) 
