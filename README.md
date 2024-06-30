@@ -1,4 +1,4 @@
-# Hello, World! 🙋‍♀️ I'm Meghna Rajbhandari
+# 🙋‍♀️ Meghna Rajbhandari
 
 ## About Me 📚
 I'm a graduate student pursuing my Masters in Computer Science at Drexel University. With a unique background in environmental engineering, I'm passionate about leveraging AI and software to create sustainable solutions. 🌍💻
