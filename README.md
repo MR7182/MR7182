@@ -17,4 +17,4 @@ I'm actively seeking internships and co-op positions where I can apply my skills
 - [Instagram](https://www.instagram.com/meghnarajbhandari/)
 
 ## Languages and Tools
-<img src="https://i.ibb.co/6FRxz2L/python.png" width="70"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg" width="90">
+<img src="https://i.ibb.co/6FRxz2L/python.png" width="70"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg" width="90"> <img src="https://static.vecteezy.com/system/resources/previews/036/044/336/original/sql-database-icon-logo-design-ui-or-ux-app-png.png" width="70">
