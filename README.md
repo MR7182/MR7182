@@ -17,4 +17,4 @@ I'm actively seeking internships and co-op positions where I can apply my skills
 - [Instagram](https://www.instagram.com/meghnarajbhandari/)
 
 ## Languages and Tools
-![Python](https://i.ibb.co/6FRxz2L/python.png)
+<img src="https://i.ibb.co/6FRxz2L/python.png" width="100">
