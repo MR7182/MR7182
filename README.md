@@ -6,7 +6,6 @@ I’m a computer science graduate student with a unique edge - a solid foundatio
 I'm deeply interested in integrating Machine learning and Artificial Intelligence for environmental sustainability. I believe in the power of technology to make our world a better place, and I'm excited to explore the intersection of AI and the environment 🌳🤖
 
 - How to Reach Me 📧: mr3734@drexel.edu
-- Fun Fact 💡: I love dancing 💃 and singing 🎤.
 
 ## Social Media 📱
 - [LinkedIn](https://www.linkedin.com/in/meghna-rajbhandari186-mr/)
